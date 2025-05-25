@@ -8,5 +8,5 @@ Jimmy Luu - Enemy Ai behaviors, Player Scripts, and Projectile
 
 If you wish to read the full details of this project, here is a Google Slides our group made for this project
 
-(Dynamic Duels Slides)[https://docs.google.com/presentation/d/1TKmE6U42asL_jamvZeH_rbmZzlg-GqxVPVcL_4eJG30/edit?slide=id.g35d342c41cc_0_7661#slide=id.g35d342c41cc_0_7661]
+(https://docs.google.com/presentation/d/1TKmE6U42asL_jamvZeH_rbmZzlg-GqxVPVcL_4eJG30/edit?slide=id.g35d342c41cc_0_7661#slide=id.g35d342c41cc_0_7661)
 
